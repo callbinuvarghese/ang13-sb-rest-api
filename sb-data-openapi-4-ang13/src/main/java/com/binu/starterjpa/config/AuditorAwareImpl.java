@@ -1,0 +1,15 @@
+package com.binu.starterjpa.config;
+
+import org.springframework.data.domain.AuditorAware;
+
+import java.util.Optional;
+
+public class AuditorAwareImpl implements AuditorAware<String> {
+
+    @Override
+    public Optional<String> getCurrentAuditor() {
+        return Optional.ofNullable("willbereal");
+        // return ((User) SecurityContextHolder.getContext().getAuthentication().getPrincipal()).getUsername()
+        //return Optional.empty();
+    }
+}

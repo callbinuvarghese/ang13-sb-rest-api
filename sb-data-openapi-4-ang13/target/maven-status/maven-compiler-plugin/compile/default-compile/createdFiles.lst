@@ -1,0 +1,9 @@
+com/binu/starterjpa/config/AuditorAwareImpl.class
+com/binu/starterjpa/entity/Tutorial.class
+com/binu/starterjpa/config/JpaConfig.class
+com/binu/starterjpa/SuperAuditable.class
+com/binu/starterjpa/SbDataRest4Ang13Application.class
+com/binu/starterjpa/repo/TutorialRepo.class
+com/binu/starterjpa/config/CorsConfig$1.class
+com/binu/starterjpa/InitDataLoader.class
+com/binu/starterjpa/config/CorsConfig.class

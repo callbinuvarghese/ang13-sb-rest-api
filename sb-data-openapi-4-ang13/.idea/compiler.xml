@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="accessing-data-rest-complete" />
+        <module name="sb-data-openapi" />
+        <module name="sb-data-openapi-4-ang13" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="accessing-data-rest-complete" options="-parameters" />
+      <module name="sb-data-openapi" options="-parameters" />
+      <module name="sb-data-openapi-4-ang13" options="-parameters" />
+    </option>
+  </component>
+</project>

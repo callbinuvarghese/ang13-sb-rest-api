@@ -1,0 +1,8 @@
+/Users/binu.b.varghese/source/ang13-sb-rest-api/sb-data-openapi-4-ang13/src/main/java/com/binu/starterjpa/config/JpaConfig.java
+/Users/binu.b.varghese/source/ang13-sb-rest-api/sb-data-openapi-4-ang13/src/main/java/com/binu/starterjpa/entity/Tutorial.java
+/Users/binu.b.varghese/source/ang13-sb-rest-api/sb-data-openapi-4-ang13/src/main/java/com/binu/starterjpa/SuperAuditable.java
+/Users/binu.b.varghese/source/ang13-sb-rest-api/sb-data-openapi-4-ang13/src/main/java/com/binu/starterjpa/config/CorsConfig.java
+/Users/binu.b.varghese/source/ang13-sb-rest-api/sb-data-openapi-4-ang13/src/main/java/com/binu/starterjpa/config/AuditorAwareImpl.java
+/Users/binu.b.varghese/source/ang13-sb-rest-api/sb-data-openapi-4-ang13/src/main/java/com/binu/starterjpa/InitDataLoader.java
+/Users/binu.b.varghese/source/ang13-sb-rest-api/sb-data-openapi-4-ang13/src/main/java/com/binu/starterjpa/repo/TutorialRepo.java
+/Users/binu.b.varghese/source/ang13-sb-rest-api/sb-data-openapi-4-ang13/src/main/java/com/binu/starterjpa/SbDataRest4Ang13Application.java
