@@ -1,0 +1,45 @@
+➜  sb-data-rest-for-ang13 curl http://localhost:8080/tutorial/
+{
+  "_embedded" : {
+    "tutorials" : [ {
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/tutorial/1"
+        },
+        "tutorial" : {
+          "href" : "http://localhost:8080/tutorial/1"
+        }
+      }
+    }, {
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/tutorial/2"
+        },
+        "tutorial" : {
+          "href" : "http://localhost:8080/tutorial/2"
+        }
+      }
+    }, {
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/tutorial/3"
+        },
+        "tutorial" : {
+          "href" : "http://localhost:8080/tutorial/3"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "self" : {
+      "href" : "http://localhost:8080/tutorial/"
+    },
+    "profile" : {
+      "href" : "http://localhost:8080/profile/tutorial"
+    },
+    "search" : {
+      "href" : "http://localhost:8080/tutorial/search"
+    }
+  }
+}%
+➜
